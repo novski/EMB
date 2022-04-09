@@ -1,0 +1,69 @@
+Partlist
+
+Exported from UniversalRackcard.sch at 09.04.22 21:35
+
+EAGLE Version 7.7.0 Copyright (c) 1988-2016 CadSoft
+
+Assembly variant: 
+
+Part           Value            Device           Package         Library               Sheet
+
+1              GND              SJ               SJ              jumper                1
+2              VDD              SJ               SJ              jumper                1
+3              SDA              SJ               SJ              jumper                1
+4              SCL              SJ               SJ              jumper                1
+5              GND              SJ               SJ              jumper                1
+6              VDD              SJ               SJ              jumper                1
+7              SDA              SJ               SJ              jumper                1
+8              SCL              SJ               SJ              jumper                1
+BEAGLE-SCL                      SJ               SJ              jumper                1
+BEAGLE-SDA                      SJ               SJ              jumper                1
+BRIDGESUPPLY                    SJW              SJW             jumper                1
+C1             100n             C-EU025-024X044  C025-024X044    rcl                   1
+C2             100n             C-EU025-024X044  C025-024X044    rcl                   1
+CUBBIE-SCL                      SJ               SJ              jumper                1
+CUBBIE-SDA                      SJ               SJ              jumper                1
+CURRENT-METER  INA219AIDR       INA219AIDR       SO-08           texas                 1
+F2             SE13             SE13             SE13            solpad                1
+F10            SE13             SE13             SE13            solpad                1
+F12            SE13             SE13             SE13            solpad                1
+F14            SE13             SE13             SE13            solpad                1
+F16            SE13             SE13             SE13            solpad                1
+F18            SE13             SE13             SE13            solpad                1
+F20            SE13             SE13             SE13            solpad                1
+F22            SE13             SE13             SE13            solpad                1
+LD1            SE13             SE13             SE13            solpad                1
+LD2            SE13             SE13             SE13            solpad                1
+LD3            SE13             SE13             SE13            solpad                1
+LD4            SE13             SE13             SE13            solpad                1
+LD5            SE13             SE13             SE13            solpad                1
+LD6            SE13             SE13             SE13            solpad                1
+LD7            SE13             SE13             SE13            solpad                1
+LD8            SE13             SE13             SE13            solpad                1
+LED1                            LED3MM           LED3MM          led                   1
+LED2                            LED3MM           LED3MM          led                   1
+LED3                            LED3MM           LED3MM          led                   1
+LED4                            LED3MM           LED3MM          led                   1
+LED5                            LED3MM           LED3MM          led                   1
+LED6                            LED3MM           LED3MM          led                   1
+LED7                            LED3MM           LED3MM          led                   1
+LED8                            LED3MM           LED3MM          led                   1
+MEGA/UNO-SCL                    SJ2W             SJ_2            jumper                1
+MEGA/UNO-SDA                    SJ2W             SJ_2            jumper                1
+METER-SCL                       SJ               SJ              jumper                1
+METER-SDA                       SJ               SJ              jumper                1
+R1             1mOhm            R-EU_R2512       R2512           resistor              1
+R2                              4816P-1SOIC16W   SOIC16W         Bourns Resistor Array 1
+R3             3.3k             R-EU_0207/7      0207/7          rcl                   1
+R4             3.3k             R-EU_0207/7      0207/7          rcl                   1
+R5             10R              R-EU_0207/7      0207/7          rcl                   1
+R6             10R              R-EU_0207/7      0207/7          rcl                   1
+RASP-SCL                        SJ               SJ              jumper                1
+RASP-SDA                        SJ               SJ              jumper                1
+SCLTOBACKPLANE                  SJ               SJ              jumper                1
+SDATOBACKPLANE                  SJ               SJ              jumper                1
+U$2            VLR_EUROCARD     VLR_EUROCARD     VLR_EUROCARD    Frames_VLR            1
+U$4            ARDUINO_ALL      ARDUINO_ALL      ALL             Arduino               1
+U$5            CUBIEBOARD       CUBIEBOARD       CUBIEBOARD      Cubie                 1
+U$6            BEAGLEBONE-BLACK BEAGLEBONE-BLACK BEAGLEBONE      beaglebone            1
+U$7            RASPBERRY-PI_B+  RASPBERRY-PI_B+  RASPBERRY-PI_B+ RaspberryPi           1
