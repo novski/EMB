@@ -31,6 +31,22 @@ communication while adding an TI INA219 can be interessting
 to measure power over a board separate. Check the adafruit 
 repo's for software and the schematic for parts.
 
+## Impressions
+
+![GitHub Logo](pictures/2014-05-20_21.21.13.jpeg)
+
+![GitHub Logo](pictures/2014-05-20_21.21.06.jpeg)
+
+![GitHub Logo](pictures/2014-05-08_22.50.24.jpeg )
+
+![GitHub Logo](pictures/2014-05-08_22.48.26.jpeg)
+
+![GitHub Logo](pictures/IMG_9582.jpeg)
+
+![GitHub Logo](pictures/IMG_9583.jpeg)
+
+![GitHub Logo](pictures/IMG_9584.jpeg )
+
 ## Disclaimer
 
 All granted for free as in speech, without waranty.
